@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SoHatNoteBook.Api",
+    "\\SohatNoteBook.DataService",
+    "\\SohatNoteBook.DataService\\Data",
+    "\\SohatNoteBook.Entities",
+    "\\SohatNoteBook.Entities\\DbSet"
+  ],
+  "SelectedNode": "\\SoHatNoteBook.Api",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,6 @@
+@SoHatNoteBook.Api_HostAddress = http://localhost:5038
+
+GET {{SoHatNoteBook.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

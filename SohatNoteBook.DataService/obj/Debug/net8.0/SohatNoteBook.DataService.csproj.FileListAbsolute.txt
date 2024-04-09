@@ -1,0 +1,17 @@
+D:\Project\SoHatNoteBook\SohatNoteBook.DataService\bin\Debug\net8.0\SohatNoteBook.DataService.deps.json
+D:\Project\SoHatNoteBook\SohatNoteBook.DataService\bin\Debug\net8.0\SohatNoteBook.DataService.runtimeconfig.json
+D:\Project\SoHatNoteBook\SohatNoteBook.DataService\bin\Debug\net8.0\SohatNoteBook.DataService.dll
+D:\Project\SoHatNoteBook\SohatNoteBook.DataService\bin\Debug\net8.0\SohatNoteBook.DataService.pdb
+D:\Project\SoHatNoteBook\SohatNoteBook.DataService\obj\Debug\net8.0\SohatNoteBook.DataService.csproj.AssemblyReference.cache
+D:\Project\SoHatNoteBook\SohatNoteBook.DataService\obj\Debug\net8.0\SohatNoteBook.DataService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\SoHatNoteBook\SohatNoteBook.DataService\obj\Debug\net8.0\SohatNoteBook.DataService.AssemblyInfoInputs.cache
+D:\Project\SoHatNoteBook\SohatNoteBook.DataService\obj\Debug\net8.0\SohatNoteBook.DataService.AssemblyInfo.cs
+D:\Project\SoHatNoteBook\SohatNoteBook.DataService\obj\Debug\net8.0\SohatNoteBook.DataService.csproj.CoreCompileInputs.cache
+D:\Project\SoHatNoteBook\SohatNoteBook.DataService\obj\Debug\net8.0\SohatNoteBook.DataService.dll
+D:\Project\SoHatNoteBook\SohatNoteBook.DataService\obj\Debug\net8.0\refint\SohatNoteBook.DataService.dll
+D:\Project\SoHatNoteBook\SohatNoteBook.DataService\obj\Debug\net8.0\SohatNoteBook.DataService.pdb
+D:\Project\SoHatNoteBook\SohatNoteBook.DataService\obj\Debug\net8.0\SohatNoteBook.DataService.genruntimeconfig.cache
+D:\Project\SoHatNoteBook\SohatNoteBook.DataService\obj\Debug\net8.0\ref\SohatNoteBook.DataService.dll
+D:\Project\SoHatNoteBook\SohatNoteBook.DataService\bin\Debug\net8.0\SohatNoteBook.Entities.dll
+D:\Project\SoHatNoteBook\SohatNoteBook.DataService\bin\Debug\net8.0\SohatNoteBook.Entities.pdb
+D:\Project\SoHatNoteBook\SohatNoteBook.DataService\obj\Debug\net8.0\SohatNot.EC853BD6.Up2Date

@@ -1,0 +1,14 @@
+D:\Project\SoHatNoteBook\SohatNoteBook.Entities\obj\Debug\net8.0\SohatNoteBook.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\SoHatNoteBook\SohatNoteBook.Entities\obj\Debug\net8.0\SohatNoteBook.Entities.AssemblyInfoInputs.cache
+D:\Project\SoHatNoteBook\SohatNoteBook.Entities\obj\Debug\net8.0\SohatNoteBook.Entities.AssemblyInfo.cs
+D:\Project\SoHatNoteBook\SohatNoteBook.Entities\obj\Debug\net8.0\SohatNoteBook.Entities.csproj.CoreCompileInputs.cache
+D:\Project\SoHatNoteBook\SohatNoteBook.Entities\bin\Debug\net8.0\SohatNoteBook.Entities.deps.json
+D:\Project\SoHatNoteBook\SohatNoteBook.Entities\bin\Debug\net8.0\SohatNoteBook.Entities.dll
+D:\Project\SoHatNoteBook\SohatNoteBook.Entities\bin\Debug\net8.0\SohatNoteBook.Entities.pdb
+D:\Project\SoHatNoteBook\SohatNoteBook.Entities\obj\Debug\net8.0\SohatNoteBook.Entities.dll
+D:\Project\SoHatNoteBook\SohatNoteBook.Entities\obj\Debug\net8.0\refint\SohatNoteBook.Entities.dll
+D:\Project\SoHatNoteBook\SohatNoteBook.Entities\obj\Debug\net8.0\SohatNoteBook.Entities.pdb
+D:\Project\SoHatNoteBook\SohatNoteBook.Entities\obj\Debug\net8.0\ref\SohatNoteBook.Entities.dll
+D:\Project\SoHatNoteBook\SohatNoteBook.Entities\bin\Debug\net8.0\SohatNoteBook.Entities.runtimeconfig.json
+D:\Project\SoHatNoteBook\SohatNoteBook.Entities\obj\Debug\net8.0\SohatNoteBook.Entities.csproj.AssemblyReference.cache
+D:\Project\SoHatNoteBook\SohatNoteBook.Entities\obj\Debug\net8.0\SohatNoteBook.Entities.genruntimeconfig.cache
